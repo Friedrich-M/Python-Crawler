@@ -1,5 +1,5 @@
-# date：2020.5.25
-# author:pmy
+# date：2022.3.5
+# author:mlz
 # aim:爬取google图片
 
 from selenium import webdriver
