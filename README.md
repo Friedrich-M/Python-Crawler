@@ -18,8 +18,8 @@ Python Crawler
 6. drinks.py 利用无头模式的selenium爬取谷歌图片（中控杯的时候作数据集）
 7. headless.py 利用无头模式的selenium爬取电影票房数据
 8. lagou.py 利用selenium和xpath解析爬取拉勾网的招聘信息
-9. translation.py 利用requests调用百度翻译，翻译本地的单词
-10. vegetable.py 上线程池， 多个页面同时抓取蔬菜信息
+9. translation.py 调用百度翻译token，可翻译输入单词
+10. vegetable.py 利用线程池进行多个页面同时抓取蔬菜信息
 
 
 ![image](https://user-images.githubusercontent.com/85838942/163854797-e7db5667-fea4-4ed1-97a9-bce82c9b2b85.png)
